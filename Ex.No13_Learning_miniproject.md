@@ -2,7 +2,7 @@
 ### DATE: 22/04/2024                                                                           
 ### REGISTER NUMBER : 212221040058
 ### AIM: 
-To write a program to train the classifier for -----------------.
+To write a program to train the classifier for Diabetes
 ###  Algorithm:
 Step 1: Import packages
 
